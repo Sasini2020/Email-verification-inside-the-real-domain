@@ -1,3 +1,4 @@
+<!-- Here is the imported library -->
 <?php 
 /** 
  * Class to validate the email address 
